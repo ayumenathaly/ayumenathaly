@@ -3,7 +3,7 @@
 </div>
 
 ## Sobre mim
-Desenvolvedora de 15 anos de Curitiba/PR. Apaixonada por livros de fantasia, YA e desenvolvimento web. Atualmente aprendendo HTML, CSS e JS.
+Desenvolvedora de 15 anos de Ponta Grosaa/PR. Apaixonada por livros de fantasia, YA e desenvolvimento web. Atualmente aprendendo HTML, CSS e JS.
 
 ## Leituras recentes 📖
 - "A Corte de Espinhos e Rosas" – Sarah J. Maas
