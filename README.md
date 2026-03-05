@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Oi!+Ayume+Nathaly;Curitiba/PR;Desenvolvedora+iniciante;Leitora+de+fantasia" alt="typing svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Oi!+Ayume+Nathaly;Ponta Grossa/PR;Desenvolvedora+iniciante;Leitora+de+fantasia" alt="typing svg" />
 </div>
 
 ## Sobre mim
@@ -7,7 +7,7 @@ Desenvolvedora de 15 anos de Ponta Grosaa/PR. Apaixonada por livros de fantasia,
 
 ## Leituras recentes 📖
 - "A Corte de Espinhos e Rosas" – Sarah J. Maas
-- "Heartstopper" – Alice Oseman
+- "Vaso para honra" – Rebecca Brown
 - "Quarto Nove" – Audrey Sylas
 
 ## Skills
@@ -19,4 +19,4 @@ Desenvolvedora de 15 anos de Ponta Grosaa/PR. Apaixonada por livros de fantasia,
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=slate&hide_border=true)
 </div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/xmihlet_
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/xmihlet_)
