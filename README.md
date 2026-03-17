@@ -1,4 +1,4 @@
-<div align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Sans&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Oi!+Ayume+Nathaly;Ponta Grossa/PR;Desenvolvedora+iniciante;Leitora+de+fantasia" alt="typing svg" />
 </div>
 
