@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Oi!+Ayume+Nathaly;Curitiba/PR;Dev+leitora;HTML+CSS+JS;Code+%26+Books" alt="typing svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Oi!+Ayume+Nathaly;Ponta+Grossa/PR;Dev+leitora;HTML+CSS+JS;Code+%26+Books" alt="typing svg" />
 </div>
 
 ## Sobre
@@ -15,6 +15,3 @@ Desenvolvedora de Curitiba/PR. Aprendendo web dev e consumindo sci-fi, fantasy e
 - *Dune* - Frank Herbert
 - *Project Hail Mary* - Andy Weir
 
-<div align="center">
-  ![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&hide_border=true)
-</div>
